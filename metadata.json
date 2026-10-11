@@ -1,0 +1,6 @@
+{
+  "name": "Real Estate",
+  "description": "A premium real estate platform for discovering and managing property listings with ease.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
